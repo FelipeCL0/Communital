@@ -2,16 +2,33 @@
     width: 7%;
 }
 
+.Fundo{
+    background-image: linear-gradient(#1c9dc473,#29237eaf);
+}
 
+.loginfundo{
 
+    background-color: #14366d70;
 
+}
+
+.ccfundo{
+
+    background-color: #14366d70;
+
+}
 
 .cabecalho {
-    background-color: #01307d;
+    background-color: #14366d70;
     color: antiquewhite;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
+}
+.cabecalho2 {
+    background-color: #7ea2db70;
+    color: rgb(0, 0, 0);
     padding: 24px 0;
 }
 .buttons2{
@@ -53,8 +70,9 @@
 .escola-div-conteudo{
     width: 35%;
 }
-.escola-titulo{
-    padding: 24px 0;
+.cabecalho-titulo{
+
+    text-align: center;
 }
 
 .botaologin{
